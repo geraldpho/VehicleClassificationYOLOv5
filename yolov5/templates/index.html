@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        img, video {
+            max-width: 100%;
+            height: auto;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Vehicle Detection</h1>
+    <div>
+        <h2>Live Feed</h2>
+        <button id="startFeedBtn">Start Live Feed</button>
+        <button id="stopFeedBtn" disabled>Stop Live Feed</button>
+        <div id="liveFeedContainer" style="margin-top: 20px; display: flex; justify-content: center; align-items: center;">
+            <img id="liveFeed" style="display:none; max-width: 100%; height: auto;" src="/live_feed" alt="Live Feed">
+        </div>
+    </div>
+
+    <div>
+        <h2>Upload an Image for Detection</h2>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <input type="file" name="file" id="fileInput" accept="image/*">
+            <button type="submit">Detect</button>
+        </form>
+        <div id="detectionResults" style="margin-top: 20px;">
+            <h3>Detections:</h3>
+            <ul id="detectionList"></ul>
+            <img id="detectedImage" alt="Detected Image" style="max-width: 100%; height: auto;">
+        </div>
+    </div>
+
+    <script>
+        let liveFeedImg = document.getElementById('liveFeed');
+        let detectionList = document.getElementById('detectionList');
+        let detectedImage = document.getElementById('detectedImage');
+
+        // Start live feed
+        document.getElementById('startFeedBtn').addEventListener('click', () => {
+            liveFeedImg.style.display = 'block';
+            document.getElementById('startFeedBtn').disabled = true;
+            document.getElementById('stopFeedBtn').disabled = false;
+
+            // Periodically fetch the live feed
+            liveFeedImg.src = '/live_feed?timestamp=' + new Date().getTime();
+        });
+        // Stop live feed
+        document.getElementById('stopFeedBtn').addEventListener('click', () => {
+            liveFeedImg.style.display = 'none';
+            liveFeedImg.src = '';
+            document.getElementById('startFeedBtn').disabled = false;
+            document.getElementById('stopFeedBtn').disabled = true;
+        });
+
+        // Image Detection Form
+        document.getElementById('uploadForm').addEventListener('submit', async function (e) {
+            e.preventDefault();
+            const formData = new FormData();
+            const fileInput = document.getElementById('fileInput');
+
+            if (fileInput.files.length === 0) {
+                alert('Please select an image to upload.');
+                return;
+            }
+            formData.append('file', fileInput.files[0]);
+
+            try {
+                const response = await fetch('/detect', {
+                    method: 'POST',
+                    body: formData
+                });
+                const result = await response.json();
+
+                // Display detections
+                detectionList.innerHTML = '';
+                if (result.detections && result.detections.length > 0) {
+                    result.detections.forEach(detection => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = `${detection.name}: ${detection.confidence.toFixed(2)}`;
+                        detectionList.appendChild(listItem);
+                    });
+                } else {
+                    detectionList.innerHTML = '<li>No detections found</li>';
+                }
+
+                // Display annotated image
+                if (result.output_image) {
+                    detectedImage.src = result.output_image;
+                }
+            } catch (error) {
+                console.error('Error during detection:', error);
+                alert('An error occurred while processing the image.');
+            }
+        });
+
+    </script>
+</body>
+</html>

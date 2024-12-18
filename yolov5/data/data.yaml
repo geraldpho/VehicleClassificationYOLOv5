@@ -1,0 +1,4 @@
+train: D:/University/Comvis/AOL/withYOLO/dataset/train/images
+val: D:/University/Comvis/AOL/withYOLO/dataset/valid/images
+nc: 6
+names: ['car', 'motorbike', 'threewheel', 'bus', 'van', 'truck']
