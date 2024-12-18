@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 280,
+        "width": 390
+    },
+    "objects": [
+        {
+            "id": 74869102,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:05:43.115Z",
+            "updatedAt": "2023-10-18T11:05:43.115Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        310,
+                        115
+                    ],
+                    [
+                        389,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869101,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:05:43.114Z",
+            "updatedAt": "2023-10-18T11:05:43.114Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        1
+                    ],
+                    [
+                        314,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

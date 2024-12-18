@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 280,
+        "width": 390
+    },
+    "objects": [
+        {
+            "id": 74867558,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.214Z",
+            "updatedAt": "2023-10-18T11:02:43.214Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        81
+                    ],
+                    [
+                        283,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867557,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.214Z",
+            "updatedAt": "2023-10-18T11:02:43.214Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        117
+                    ],
+                    [
+                        375,
+                        143
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

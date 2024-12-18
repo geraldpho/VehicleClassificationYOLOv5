@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1081,
+        "width": 1080
+    },
+    "objects": [
+        {
+            "id": 74868357,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:04:09.320Z",
+            "updatedAt": "2023-10-18T11:04:09.320Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        535
+                    ],
+                    [
+                        646,
+                        818
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868356,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:04:09.319Z",
+            "updatedAt": "2023-10-18T11:04:09.319Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        675,
+                        597
+                    ],
+                    [
+                        981,
+                        762
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

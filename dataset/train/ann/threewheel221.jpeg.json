@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 550,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 74868049,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:31.601Z",
+            "updatedAt": "2023-10-18T11:03:31.601Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        85
+                    ],
+                    [
+                        846,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868048,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:31.601Z",
+            "updatedAt": "2023-10-18T11:03:31.601Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        807,
+                        79
+                    ],
+                    [
+                        1139,
+                        514
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868047,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:31.601Z",
+            "updatedAt": "2023-10-18T11:03:31.601Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        1097,
+                        99
+                    ],
+                    [
+                        1372,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

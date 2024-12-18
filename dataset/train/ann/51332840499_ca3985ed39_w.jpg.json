@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 267,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 74866494,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:19.271Z",
+            "updatedAt": "2023-10-18T11:01:19.271Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        208,
+                        59
+                    ],
+                    [
+                        332,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74866493,
+            "classId": 6488139,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:19.271Z",
+            "updatedAt": "2023-10-18T11:01:19.271Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        64
+                    ],
+                    [
+                        399,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

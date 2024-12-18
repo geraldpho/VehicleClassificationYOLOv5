@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 231,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 74866482,
+            "classId": 6488141,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:16.809Z",
+            "updatedAt": "2023-10-18T11:01:16.809Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        74
+                    ],
+                    [
+                        272,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74866481,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:16.808Z",
+            "updatedAt": "2023-10-18T11:01:16.808Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        153
+                    ],
+                    [
+                        61,
+                        178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74866480,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:16.808Z",
+            "updatedAt": "2023-10-18T11:01:16.808Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        135
+                    ],
+                    [
+                        26,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

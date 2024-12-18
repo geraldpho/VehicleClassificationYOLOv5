@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 340,
+        "width": 510
+    },
+    "objects": [
+        {
+            "id": 74869481,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:23.577Z",
+            "updatedAt": "2023-10-18T11:06:23.577Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        54,
+                        45
+                    ],
+                    [
+                        460,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

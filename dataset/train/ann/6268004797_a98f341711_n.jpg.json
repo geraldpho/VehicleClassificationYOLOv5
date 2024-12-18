@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 213,
+        "width": 319
+    },
+    "objects": [
+        {
+            "id": 74866546,
+            "classId": 6488141,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:21.701Z",
+            "updatedAt": "2023-10-18T11:01:21.701Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        27,
+                        36
+                    ],
+                    [
+                        289,
+                        183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74866545,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:21.701Z",
+            "updatedAt": "2023-10-18T11:01:21.701Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        103
+                    ],
+                    [
+                        76,
+                        212
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

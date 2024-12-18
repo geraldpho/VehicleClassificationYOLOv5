@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1200,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 74865737,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:00:26.051Z",
+            "updatedAt": "2023-10-18T11:00:26.051Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        438,
+                        325
+                    ],
+                    [
+                        1332,
+                        982
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

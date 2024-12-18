@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 74866076,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:00:52.078Z",
+            "updatedAt": "2023-10-18T11:00:52.078Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        93
+                    ],
+                    [
+                        455,
+                        341
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74866075,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:00:52.078Z",
+            "updatedAt": "2023-10-18T11:00:52.078Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        289,
+                        179
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

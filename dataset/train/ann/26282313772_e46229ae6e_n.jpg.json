@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 214,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 74866269,
+            "classId": 6488141,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:04.612Z",
+            "updatedAt": "2023-10-18T11:01:04.612Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        42
+                    ],
+                    [
+                        281,
+                        159
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74866268,
+            "classId": 6488141,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:01:04.612Z",
+            "updatedAt": "2023-10-18T11:01:04.612Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        56
+                    ],
+                    [
+                        41,
+                        125
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

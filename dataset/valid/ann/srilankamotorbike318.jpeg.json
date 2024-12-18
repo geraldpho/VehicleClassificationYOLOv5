@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 720
+    },
+    "objects": [
+        {
+            "id": 74869302,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:02.033Z",
+            "updatedAt": "2023-10-18T11:06:02.033Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        262,
+                        210
+                    ],
+                    [
+                        367,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869301,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:02.033Z",
+            "updatedAt": "2023-10-18T11:06:02.033Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        490,
+                        196
+                    ],
+                    [
+                        549,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869300,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:02.031Z",
+            "updatedAt": "2023-10-18T11:06:02.031Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        612,
+                        178
+                    ],
+                    [
+                        652,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 74868022,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.774Z",
+            "updatedAt": "2023-10-18T11:03:27.774Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        830,
+                        112
+                    ],
+                    [
+                        1279,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868021,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.773Z",
+            "updatedAt": "2023-10-18T11:03:27.773Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        524,
+                        108
+                    ],
+                    [
+                        893,
+                        525
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868020,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.773Z",
+            "updatedAt": "2023-10-18T11:03:27.773Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        292,
+                        112
+                    ],
+                    [
+                        564,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868019,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.772Z",
+            "updatedAt": "2023-10-18T11:03:27.772Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        80,
+                        113
+                    ],
+                    [
+                        346,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868018,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.772Z",
+            "updatedAt": "2023-10-18T11:03:27.772Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        127
+                    ],
+                    [
+                        134,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

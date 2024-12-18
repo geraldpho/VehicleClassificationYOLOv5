@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 280,
+        "width": 390
+    },
+    "objects": [
+        {
+            "id": 74867986,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.762Z",
+            "updatedAt": "2023-10-18T11:03:27.762Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        98,
+                        74
+                    ],
+                    [
+                        285,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867985,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.759Z",
+            "updatedAt": "2023-10-18T11:03:27.759Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        280,
+                        85
+                    ],
+                    [
+                        389,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867984,
+            "classId": 6488139,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:27.758Z",
+            "updatedAt": "2023-10-18T11:03:27.758Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        122
+                    ],
+                    [
+                        87,
+                        152
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

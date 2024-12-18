@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 74869392,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:12.057Z",
+            "updatedAt": "2023-10-18T11:06:12.057Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        112
+                    ],
+                    [
+                        1148,
+                        821
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869391,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:12.056Z",
+            "updatedAt": "2023-10-18T11:06:12.056Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        1158,
+                        258
+                    ],
+                    [
+                        1229,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

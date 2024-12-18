@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 408,
+        "width": 612
+    },
+    "objects": [
+        {
+            "id": 74867225,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:17.072Z",
+            "updatedAt": "2023-10-18T11:02:17.072Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        140
+                    ],
+                    [
+                        222,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867224,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:17.072Z",
+            "updatedAt": "2023-10-18T11:02:17.072Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        187
+                    ],
+                    [
+                        284,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867223,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:17.072Z",
+            "updatedAt": "2023-10-18T11:02:17.072Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        424,
+                        241
+                    ],
+                    [
+                        472,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867222,
+            "classId": 6488140,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:17.071Z",
+            "updatedAt": "2023-10-18T11:02:17.071Z",
+            "tags": [],
+            "classTitle": "threewheel",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        205
+                    ],
+                    [
+                        384,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1333,
+        "width": 2000
+    },
+    "objects": [
+        {
+            "id": 74868930,
+            "classId": 6488139,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:05:14.576Z",
+            "updatedAt": "2023-10-18T11:05:14.576Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        415
+                    ],
+                    [
+                        1677,
+                        1098
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

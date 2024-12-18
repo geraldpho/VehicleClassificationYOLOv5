@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 240,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 74868799,
+            "classId": 6488141,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:04:53.286Z",
+            "updatedAt": "2023-10-18T11:04:53.286Z",
+            "tags": [],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        20,
+                        29
+                    ],
+                    [
+                        295,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

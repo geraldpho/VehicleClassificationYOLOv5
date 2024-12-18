@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 280,
+        "width": 390
+    },
+    "objects": [
+        {
+            "id": 74867579,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.219Z",
+            "updatedAt": "2023-10-18T11:02:43.219Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        54
+                    ],
+                    [
+                        219,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867578,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.219Z",
+            "updatedAt": "2023-10-18T11:02:43.219Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        42
+                    ],
+                    [
+                        344,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867577,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.217Z",
+            "updatedAt": "2023-10-18T11:02:43.217Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        338,
+                        87
+                    ],
+                    [
+                        389,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867576,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.217Z",
+            "updatedAt": "2023-10-18T11:02:43.217Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        118
+                    ],
+                    [
+                        7,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867575,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.216Z",
+            "updatedAt": "2023-10-18T11:02:43.216Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        118
+                    ],
+                    [
+                        29,
+                        149
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74867574,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:02:43.216Z",
+            "updatedAt": "2023-10-18T11:02:43.216Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        30,
+                        119
+                    ],
+                    [
+                        49,
+                        148
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

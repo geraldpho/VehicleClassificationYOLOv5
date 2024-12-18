@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 244,
+        "width": 330
+    },
+    "objects": [
+        {
+            "id": 74867899,
+            "classId": 6488142,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:03:15.631Z",
+            "updatedAt": "2023-10-18T11:03:15.631Z",
+            "tags": [],
+            "classTitle": "truck",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        30
+                    ],
+                    [
+                        285,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

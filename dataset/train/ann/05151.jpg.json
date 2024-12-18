@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 888,
+        "width": 1333
+    },
+    "objects": [
+        {
+            "id": 74865796,
+            "classId": 6488139,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:00:31.674Z",
+            "updatedAt": "2023-10-18T11:00:31.674Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        15,
+                        307
+                    ],
+                    [
+                        773,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74865795,
+            "classId": 6488139,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:00:31.673Z",
+            "updatedAt": "2023-10-18T11:00:31.673Z",
+            "tags": [],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        407,
+                        290
+                    ],
+                    [
+                        1319,
+                        709
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

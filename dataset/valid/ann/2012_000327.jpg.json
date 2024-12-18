@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 313,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 74868597,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:04:31.922Z",
+            "updatedAt": "2023-10-18T11:04:31.922Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        104
+                    ],
+                    [
+                        322,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868596,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:04:31.921Z",
+            "updatedAt": "2023-10-18T11:04:31.921Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        388,
+                        77
+                    ],
+                    [
+                        462,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74868595,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:04:31.920Z",
+            "updatedAt": "2023-10-18T11:04:31.920Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        96
+                    ],
+                    [
+                        131,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

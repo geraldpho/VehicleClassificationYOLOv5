@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 74869339,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:07.676Z",
+            "updatedAt": "2023-10-18T11:06:07.676Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        223
+                    ],
+                    [
+                        378,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869338,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:07.675Z",
+            "updatedAt": "2023-10-18T11:06:07.675Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        393,
+                        234
+                    ],
+                    [
+                        808,
+                        492
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869337,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:07.675Z",
+            "updatedAt": "2023-10-18T11:06:07.675Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        833,
+                        259
+                    ],
+                    [
+                        1274,
+                        487
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869336,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:07.675Z",
+            "updatedAt": "2023-10-18T11:06:07.675Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        878,
+                        487
+                    ],
+                    [
+                        1237,
+                        714
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869335,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:07.674Z",
+            "updatedAt": "2023-10-18T11:06:07.674Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        507,
+                        492
+                    ],
+                    [
+                        847,
+                        713
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869334,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:07.673Z",
+            "updatedAt": "2023-10-18T11:06:07.673Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        472
+                    ],
+                    [
+                        410,
+                        699
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

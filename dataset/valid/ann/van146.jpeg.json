@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 675,
+        "width": 2160
+    },
+    "objects": [
+        {
+            "id": 74869511,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:28.102Z",
+            "updatedAt": "2023-10-18T11:06:28.102Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        223
+                    ],
+                    [
+                        589,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869510,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:28.102Z",
+            "updatedAt": "2023-10-18T11:06:28.102Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        538,
+                        185
+                    ],
+                    [
+                        1108,
+                        520
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74869509,
+            "classId": 6488144,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:06:28.101Z",
+            "updatedAt": "2023-10-18T11:06:28.101Z",
+            "tags": [],
+            "classTitle": "van",
+            "points": {
+                "exterior": [
+                    [
+                        1148,
+                        268
+                    ],
+                    [
+                        1622,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

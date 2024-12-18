@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 267,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 74868839,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:04:57.044Z",
+            "updatedAt": "2023-10-18T11:04:57.044Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        83,
+                        119
+                    ],
+                    [
+                        234,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

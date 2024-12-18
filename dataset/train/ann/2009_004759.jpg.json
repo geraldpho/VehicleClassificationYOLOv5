@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 335,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 74866099,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:00:52.083Z",
+            "updatedAt": "2023-10-18T11:00:52.083Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        46
+                    ],
+                    [
+                        475,
+                        327
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 74866098,
+            "classId": 6488143,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-10-18T11:00:52.083Z",
+            "updatedAt": "2023-10-18T11:00:52.083Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        100
+                    ],
+                    [
+                        167,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
